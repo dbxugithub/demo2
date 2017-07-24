@@ -7,5 +7,7 @@ public class Demo2 {
     public void performUturn(){
 
         System.out.println("Uturn is not easy");
+
+        System.out.println("Uturn is easy");
     }
 }
