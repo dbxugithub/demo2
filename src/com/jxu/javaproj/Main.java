@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hello world");
         Demo2 demo2 = new Demo2();
         demo2.performUturn();
+        System.out.print("what is up");
     }
 }
